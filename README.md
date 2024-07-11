@@ -9,5 +9,8 @@ A computer monitoring tool
 * audio recording.
 
 # Usage
-Python 3.12.3
-windows 10 11
+* Python 3.12.3
+* windows 10 11
+
+  <img src"E:\myBus\New folder" alt="png"/>
+  
