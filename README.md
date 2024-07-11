@@ -11,6 +11,14 @@ A computer monitoring tool
 # Usage
 * Python 3.12.3
 * windows 10 11
-
-  <img src"E:\myBus\New folder" alt="png"/>
   
+# The most famous libraries
+* pynput.keyboard import Key, Listener
+* threading
+
+# Devloper 
+* Nader Ameen ALhwamail
+
+# Disclaimer
+This tool is intended for educational and ethical use only.....
+
