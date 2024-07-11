@@ -14,12 +14,5 @@ windows 10 11
 
 <!DOCTYPE html>
 <html>
-<head>
-  <title>إضافة صورة في ملف القراءة</title>
-</head>
-<body>
-  <h1>عنوان كبير</h1>
-  <img src="E:\myBus\New folder/k.png" alt="وصف الصورة">
-  <p>هذا هو نص الفقرة العادي.</p>
-</body>
+<head>![Image description](E:\myBus\New folderr/k.png)
 </html>
